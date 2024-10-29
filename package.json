@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "puppeteer": "^23.6.0",
+        "sharp": "^0.33.5",
+        "tesseract.js": "^5.1.1"
+    }
+}
